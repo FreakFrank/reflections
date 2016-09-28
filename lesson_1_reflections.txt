@@ -1,0 +1,21 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+	- It like highlighted the differnces between the 2 files which helped me easily and fastly recognizing the differences.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	- I think if I can easily find the older versions of my project files it would be much more easier to find somthing I'd like to remind my self of or maybe find some chunk of code I mght like to use for specific purpose.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	- If I choose to commit manually then I will manage that every time I commit there is somthing changed in the code that really needs to be commited. However, sometimes I might forget to commit which then I might lose the advantage to get back to code in a situation where I really need to do this.
+	- If automatic commit is chosen then one of its advantages is that I'll probably not get overwhelmed by commiting every now and then. However, I might have more than I need commits or less than I need commits.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	- Since in coding its very often that you have multiple files running in the same time with each other, for eample when you change something in one file you should change it in the other files. However, the type of files saved in google docs might also have somthings in common but if you changed something in one file you dont have to change it in the other.
+
+How can you use the commands git log and git diff to view the history of files?
+	- First we type the command git log to see all the history of our commits, then we can choose two commits to comapre between the changes done in both.
+
+How might using version control make you more confident to make changes that could break something?
+	- Just saving previous commits and having the ability to get back to them whenever my program crashes really comforts me.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	- Maybe I'll try some diff commands or some logs :D.
