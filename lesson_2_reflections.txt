@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+	- A new empty repo is initialized with some .git files.
+	- So I can start commiting to this repo which I will be having my project saved on.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	- The working area is the place where I'm changing my code, while the staging area is where I'm putting some files to be commited.
+	- I think it add the value of commiting multiple files at once.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	- We can use the git diff --staged command to compare with the most recent commit and make sure that we have only changed one logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	- If I want to have different versions of my code concurrently, or if I'm making something different than the previous piece of codes(New feature, fixing bug)., also for experimnts.
